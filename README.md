@@ -39,20 +39,11 @@ Berikut tools yang digunakan:
 
 ## 📁 Setup Project
 
-Langkah awal membuat project:
+Penambahan cara setup awal:
 
-1. Buat folder project di komputer
-2. Inisialisasi Git di folder tersebut:
-   ```bash
-   git init
-   ```
-3. Buat repository baru di GitHub
-4. Hubungkan folder lokal ke repository GitHub:
-   ```bash
-   git remote add origin <url-repo>
-   git branch -M main
-   git push -u origin main
-   ```
+1. Buat secara manual repositori di github 
+2. Buat folder di local dan jalankan git init
+3. Hubungkan folder di local dengan repo di github dengan cara git remote add origin <copy link .git nya>
 
 ## 🔁 Pola Kerja Vibes Coding
 
